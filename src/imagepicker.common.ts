@@ -1,7 +1,8 @@
 export enum ImagePickerMediaType {
     Any = 0,
     Image = 1,
-    Video = 2
+    Video = 2,
+    Audio = 3,
 }
 
 /**

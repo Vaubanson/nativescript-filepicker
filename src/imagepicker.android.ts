@@ -163,6 +163,8 @@ export class ImagePicker {
             return "image/*";
         } else if (mediaType === ImagePickerMediaType.Video) {
             return "video/*";
+        } else if (mediaType === ImagePickerMediaType.Audio) {
+            return "audio/*";
         } else {
             return "*/*";
         }

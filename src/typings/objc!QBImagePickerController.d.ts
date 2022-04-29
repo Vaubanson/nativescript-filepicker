@@ -158,7 +158,9 @@ declare const enum QBImagePickerMediaType {
 
     Image = 1,
 
-    Video = 2
+    Video = 2,
+
+    Audio = 3,
 }
 
 declare class QBSlomoIconView extends UIView {

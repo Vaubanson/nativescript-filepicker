@@ -1,12 +1,12 @@
 {
-    "name": "nativescript-imagepicker",
+    "name": "nativescript-filepicker",
     "version": "7.1.0",
-    "description": "A plugin for the NativeScript framework implementing multiple image picker",
+    "description": "A plugin for the NativeScript framework implementing multiple file picker",
     "repository": {
         "type": "git",
-        "url": "https://github.com/NativeScript/nativescript-imagepicker"
+        "url": "https://github.com/Vaubanson/nativescript-filepicker"
     },
-    "main": "imagepicker",
+    "main": "filepicker",
     "typings": "index.d.ts",
     "nativescript": {
         "platforms": {
@@ -38,12 +38,12 @@
         "Android",
         "iOS"
     ],
-    "author": "NativeScript Team",
+    "author": "Vaubanson",
     "bugs": {
-        "url": "https://github.com/NativeScript/nativescript-imagepicker/issues"
+        "url": "https://github.com/Vaubanson/nativescript-filepicker/issues"
     },
     "license": "Apache-2.0",
-    "homepage": "https://github.com/NativeScript/nativescript-imagepicker",
+    "homepage": "https://github.com/Vaubanson/nativescript-filepicker",
     "readmeFilename": "README.md",
     "devDependencies": {
         "tns-core-modules": "^6.0.0",
